@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "816060336848",
+    "project_id": "flutterauth-fa04a",
+    "storage_bucket": "flutterauth-fa04a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:816060336848:android:347ca497fd1c52f813acd5",
+        "android_client_info": {
+          "package_name": "com.example.ridelink"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDozun_96bGhNbPpfBjhLQxFl5vzItEkak"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
